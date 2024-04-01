@@ -1,4 +1,4 @@
-package leetcode;
+
 // 1920 : build array from permutation
 public class PermutationArray {
     public static void main(String[] args) {

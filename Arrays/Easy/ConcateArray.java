@@ -1,4 +1,4 @@
-package leetcode;
+
 // 1929 : Concatenation of arrays
 import java.util.Arrays;
 

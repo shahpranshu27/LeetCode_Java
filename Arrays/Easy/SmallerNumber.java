@@ -1,4 +1,4 @@
-package leetcode;
+
 // 1365 : how many numbers are smaller than the current number
 import java.util.Arrays;
 

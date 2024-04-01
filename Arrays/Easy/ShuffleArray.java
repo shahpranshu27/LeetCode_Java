@@ -1,4 +1,4 @@
-package leetcode;
+
 // 1470 : shuffle the array
 import java.util.Arrays;
 

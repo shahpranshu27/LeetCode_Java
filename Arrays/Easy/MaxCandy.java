@@ -1,4 +1,4 @@
-package leetcode;
+
 // 1431 : kids with greatest number of candies
 import java.util.ArrayList;
 // import java.util.Arrays;
