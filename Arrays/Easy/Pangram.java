@@ -1,5 +1,5 @@
 package Arrays.Easy;
-
+// 1832 : Check if the sentence is pangram i.e. the sentence should contain all the letters atleast once
 import java.util.HashSet;
 import java.util.Set;
 
