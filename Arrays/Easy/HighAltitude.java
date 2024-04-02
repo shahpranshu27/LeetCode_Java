@@ -1,5 +1,5 @@
 package Arrays.Easy;
-
+// 1732 : find the highest altitude
 public class HighAltitude {
     // static int[] runningSum(int[] nums){
     //     for (int i = 0; i < nums.length; i++) {
